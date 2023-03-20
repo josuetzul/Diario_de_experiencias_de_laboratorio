@@ -1,0 +1,8 @@
+C:\Users\elbro\OneDrive\Escritorio\Tareas U\progra\TS\Lab 8 semana 7\Lab 8 semana 7\obj\Debug\Lab 8 semana 7.csproj.AssemblyReference.cache
+C:\Users\elbro\OneDrive\Escritorio\Tareas U\progra\TS\Lab 8 semana 7\Lab 8 semana 7\obj\Debug\Lab 8 semana 7.csproj.SuggestedBindingRedirects.cache
+C:\Users\elbro\OneDrive\Escritorio\Tareas U\progra\TS\Lab 8 semana 7\Lab 8 semana 7\obj\Debug\Lab 8 semana 7.csproj.CoreCompileInputs.cache
+C:\Users\elbro\OneDrive\Escritorio\Tareas U\progra\TS\Lab 8 semana 7\Lab 8 semana 7\bin\Debug\Lab 8 semana 7.exe.config
+C:\Users\elbro\OneDrive\Escritorio\Tareas U\progra\TS\Lab 8 semana 7\Lab 8 semana 7\bin\Debug\Lab 8 semana 7.exe
+C:\Users\elbro\OneDrive\Escritorio\Tareas U\progra\TS\Lab 8 semana 7\Lab 8 semana 7\bin\Debug\Lab 8 semana 7.pdb
+C:\Users\elbro\OneDrive\Escritorio\Tareas U\progra\TS\Lab 8 semana 7\Lab 8 semana 7\obj\Debug\Lab 8 semana 7.exe
+C:\Users\elbro\OneDrive\Escritorio\Tareas U\progra\TS\Lab 8 semana 7\Lab 8 semana 7\obj\Debug\Lab 8 semana 7.pdb
