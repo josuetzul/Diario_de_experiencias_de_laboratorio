@@ -1,0 +1,16 @@
+C:\Users\elbro\OneDrive\Escritorio\Tareas U\progra\L8_forms_JDTG_1067123\L8_forms_JDTG_1067123\bin\Debug\L8_forms_JDTG_1067123.dll
+C:\Users\elbro\OneDrive\Escritorio\Tareas U\progra\L8_forms_JDTG_1067123\L8_forms_JDTG_1067123\bin\Debug\L8_forms_JDTG_1067123.pdb
+C:\Users\elbro\OneDrive\Escritorio\Tareas U\progra\L8_forms_JDTG_1067123\L8_forms_JDTG_1067123\obj\Debug\L8_forms_JDTG_1067123.csproj.AssemblyReference.cache
+C:\Users\elbro\OneDrive\Escritorio\Tareas U\progra\L8_forms_JDTG_1067123\L8_forms_JDTG_1067123\obj\Debug\L8_forms_JDTG_1067123.Form.resources
+C:\Users\elbro\OneDrive\Escritorio\Tareas U\progra\L8_forms_JDTG_1067123\L8_forms_JDTG_1067123\obj\Debug\L8_forms_JDTG_1067123.csproj.GenerateResource.cache
+C:\Users\elbro\OneDrive\Escritorio\Tareas U\progra\L8_forms_JDTG_1067123\L8_forms_JDTG_1067123\obj\Debug\L8_forms_JDTG_1067123.csproj.CoreCompileInputs.cache
+C:\Users\elbro\OneDrive\Escritorio\Tareas U\progra\L8_forms_JDTG_1067123\L8_forms_JDTG_1067123\obj\Debug\L8_forms_JDTG_1067123.dll
+C:\Users\elbro\OneDrive\Escritorio\Tareas U\progra\L8_forms_JDTG_1067123\L8_forms_JDTG_1067123\obj\Debug\L8_forms_JDTG_1067123.pdb
+C:\Users\elbro\OneDrive\Escritorio\Tareas U\progra\TS\L8_forms_JDTG_1067123\L8_forms_JDTG_1067123\bin\Debug\L8_forms_JDTG_1067123.dll
+C:\Users\elbro\OneDrive\Escritorio\Tareas U\progra\TS\L8_forms_JDTG_1067123\L8_forms_JDTG_1067123\bin\Debug\L8_forms_JDTG_1067123.pdb
+C:\Users\elbro\OneDrive\Escritorio\Tareas U\progra\TS\L8_forms_JDTG_1067123\L8_forms_JDTG_1067123\obj\Debug\L8_forms_JDTG_1067123.csproj.AssemblyReference.cache
+C:\Users\elbro\OneDrive\Escritorio\Tareas U\progra\TS\L8_forms_JDTG_1067123\L8_forms_JDTG_1067123\obj\Debug\L8_forms_JDTG_1067123.Form.resources
+C:\Users\elbro\OneDrive\Escritorio\Tareas U\progra\TS\L8_forms_JDTG_1067123\L8_forms_JDTG_1067123\obj\Debug\L8_forms_JDTG_1067123.csproj.GenerateResource.cache
+C:\Users\elbro\OneDrive\Escritorio\Tareas U\progra\TS\L8_forms_JDTG_1067123\L8_forms_JDTG_1067123\obj\Debug\L8_forms_JDTG_1067123.csproj.CoreCompileInputs.cache
+C:\Users\elbro\OneDrive\Escritorio\Tareas U\progra\TS\L8_forms_JDTG_1067123\L8_forms_JDTG_1067123\obj\Debug\L8_forms_JDTG_1067123.dll
+C:\Users\elbro\OneDrive\Escritorio\Tareas U\progra\TS\L8_forms_JDTG_1067123\L8_forms_JDTG_1067123\obj\Debug\L8_forms_JDTG_1067123.pdb
